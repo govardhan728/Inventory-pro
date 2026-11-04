@@ -324,7 +324,7 @@ All responses follow a consistent envelope structure:
 
 ### 1. Clone the Repository
 ```bash
-git clone (https://github.com/rayapatiravitheja/Inventory-pro)
+git clone https://github.com/rayapatiravitheja/Inventory-pro.git
 cd Inventory-pro
 ```
 
@@ -410,7 +410,7 @@ npm run dev
 Distributed under the **MIT License**.
 
 - **Author**: Ravi Theja Rayapati
-- **Repository**: [GitHub — InventoryPro](https://github.com/rayapatiravitheja/Infoziant-MERN)
+- **Repository**: [GitHub — InventoryPro](https://github.com/rayapatiravitheja/Inventory-pro)
 - **Contact**: `rayapatiravitheja@gmail.com`
 
 ---
